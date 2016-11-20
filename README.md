@@ -1,0 +1,1 @@
+# bookmarks-crx
